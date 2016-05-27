@@ -1,15 +1,15 @@
-Synopsis
+<h3>Synopsis:</h3></br>
 This project will show the end user a list of my top 6 movies and allow them to view the trailer b clicking on the box art.
 
-Motivation
+Motivation:
 The project was created to showcase my awesome python coding skills and introduce the end users to some great films they may not have seen before.
 
-Installation
+Installation:
 Download the code into a clean directory and run.  There are no additional libraries or configurations necessary
 
-Contributors
+Contributors:
 Daniel Wimpelberg
 Udacity for the fresh_tomatoes code and template.
 
-License
+License:
 There is no license.  Feel sfree to re-use, distribute, modify or any other actions with the code.
